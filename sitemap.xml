@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url><loc>https://gwanitsari.com/</loc><lastmod>2026-11-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://gwanitsari.com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://gwanitsari.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="ha" href="https://gwanitsari.com/ha/"/>
+  </url>
+  <url><loc>https://gwanitsari.com/en/</loc><lastmod>2026-11-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://gwanitsari.com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://gwanitsari.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="ha" href="https://gwanitsari.com/ha/"/>
+  </url>
+  <url><loc>https://gwanitsari.com/ha/</loc><lastmod>2026-11-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://gwanitsari.com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://gwanitsari.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="ha" href="https://gwanitsari.com/ha/"/>
+  </url>
+</urlset>
